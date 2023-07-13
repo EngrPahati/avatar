@@ -65,7 +65,7 @@ function Avatar() {
 
 function Intro() {
   return (
-    <div>
+    <div className="intro">
       <h1>Alastair Cruz Pahati</h1>
       <p>
         Baby Boy who likes to say "KA" whenever he wants to eat. Always play
